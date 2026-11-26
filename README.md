@@ -10,6 +10,7 @@ A lightweight, file-based JSON database written in Go that provides simple CRUD 
 - **Collection-based Organization**: Data organized in collections (similar to tables)
 - **Atomic Writes**: Temporary file writes ensure data integrity
 - **Logging Support**: Built-in logging with configurable levels
+  
 
 ## 📁 Project Structure
 
